@@ -140,9 +140,9 @@ PACKAGES=(
     "discord|com.discordapp.Discord|true" # FLATPAK ONLY (force_flatpak=true)
     "localsend|org.localsend.localsend_app|false"
     "qimgv-git|io.github.opengapps.qimgv|false"
-    "normcap|com.github.dynobo.normcap|false" 
-    "diodon|net.launchpad.diodon|false"
-    "virt-manager|org.virt_manager.virt-manager|false"
+    "normcap|com.github.dynobo.normcap|true" 
+    #"diodon|net.launchpad.diodon|false"
+    #"virt-manager|org.virt_manager.virt-manager|false"
     "mailspring-bin|com.getmailspring.Mailspring|false"
     "zoom|us.zoom.Zoom|false"
 )
